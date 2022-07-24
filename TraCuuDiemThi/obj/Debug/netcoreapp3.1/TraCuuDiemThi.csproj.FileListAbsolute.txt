@@ -1,0 +1,16 @@
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\TraCuuDiemThi.exe
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\TraCuuDiemThi.deps.json
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\TraCuuDiemThi.runtimeconfig.json
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\TraCuuDiemThi.runtimeconfig.dev.json
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\TraCuuDiemThi.dll
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\TraCuuDiemThi.pdb
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\xNet.dll
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.csproj.AssemblyReference.cache
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.AssemblyInfoInputs.cache
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.AssemblyInfo.cs
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.csproj.CoreCompileInputs.cache
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.dll
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.pdb
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\obj\Debug\netcoreapp3.1\TraCuuDiemThi.genruntimeconfig.cache
+D:\Important\repos\TraCuuDiemThi\TraCuuDiemThi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
